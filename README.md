@@ -49,7 +49,7 @@
                         }
                     }
            
-           //select data query with order
+           //select data query with order joint query
              String sortOrder = DataBaseField.BANK_NAME + " COLLATE NOCASE ASC";
              Cursor catcursor = db.select(DataBase.tbl_type, new String[]{"TYPE_NAME"}, DataBaseField.BANK_ID + " != 0", null, null, sortOrder);
                     
