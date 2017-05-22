@@ -1,4 +1,4 @@
-package com.smartappsarena.daybook.database;
+package com.hirani.database;
 
 import android.content.ContentValues;
 import android.content.Context;
