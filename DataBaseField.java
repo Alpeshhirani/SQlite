@@ -1,4 +1,4 @@
-package com.smartappsarena.daybook.database;
+package com.hirani.database;
 
 public class DataBaseField {
 
